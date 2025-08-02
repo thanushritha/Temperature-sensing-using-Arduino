@@ -1,5 +1,3 @@
-# Temperature-sensing-using-Arduino
-An Arduino Uno-based project that uses an LM35 sensor to detect and display temperature on an LCD screen.
 # 🌡️ Temperature Sensing using Arduino Uno
 
 This project uses an **LM35 temperature sensor**, an **Arduino Uno**, and a **16x2 LCD** to measure and display ambient temperature.
